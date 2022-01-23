@@ -1,0 +1,2 @@
+Aim:-
+	Create a git repository. Push the repository to the remote. Create two branches (br1 & br2) from the master branch locally. Merge br1 to br2. Push the merged branch to the remote.
